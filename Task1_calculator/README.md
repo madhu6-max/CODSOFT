@@ -29,13 +29,13 @@ This project performs basic arithmetic operations with a clean and user-friendly
 ##  Project Structure
 
 Task1_calculator/
-│
-├── calculator.py
-├── README.md
-├── output_video.mp4
-└── Screenshots/
-├── code_ss.png
-└── output_ss.png
+
+ calculator.py
+ README.md
+ output_video.mp4
+ Screenshots/
+ code_ss.png
+ output_ss.png
 
 ---
 
@@ -46,6 +46,7 @@ Task1_calculator/
 ### 1.clone the Respository
 
 '''bash
+
 git clone https://github.com/madhu6-max/CODSOFT.git
 
 
@@ -54,6 +55,7 @@ git clone https://github.com/madhu6-max/CODSOFT.git
 1. Navigate to project folder
 
 '''bash
+
 cd CODSOFT/Task1_calculator
 
 ### 3.Run the project Program
@@ -61,17 +63,19 @@ cd CODSOFT/Task1_calculator
 1. Execute the calculator application using:
 
 '''bash
+
 python calculator.py
 
 ### 4.Choose operation
 
 Select any operation from:
-Addition
-Subtraction
-Multiplication
-Division
-Exponentiation
-Modulus
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Exponentiation
+- Modulus
+
 Then enter the required numbers to get the result instantly.
 
 # Example
