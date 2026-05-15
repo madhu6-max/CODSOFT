@@ -29,12 +29,12 @@
 
 Task2_password_generator/
 
- password_generator.py
- README.md
- Screenshots/
- code_ss.png
- output_ss.png
- output_video.mp4
+- password_generator.py
+- README.md
+- Screenshots/
+- code_ss.png
+- output_ss.png
+- output_video.mp4
 
 ---
 
@@ -74,18 +74,18 @@ Select password type:
 2. Letters + Numbers
 3. Letters + Numbers + Symbols
 
-Choose option:
+- Choose option:
 
-What option do you want to choose (1/2/3): 3
+- What option do you want to choose (1/2/3): 3
 
-Generated password will display:
+- Generated password will display:
 
-Result =
+- Result =
 
 Generated Password:
 @K9#pL2$
 
-The password is generated randomly every execution.
+- The password is generated randomly every execution.
 
 
 --- 
@@ -94,23 +94,23 @@ The password is generated randomly every execution.
 
 ### Code Preview
 
-![Code Screenshot](Screenshots/code_ss.png)
+![Code Screenshot](code_ss.png)
 
 ---
 
 ### Output Preview
 
-![Output Screenshots](Screnshots/output_ss.png)
+![Output Screenshots](output_ss.png)
 
 ---
 ## Demo Video
 
-A demo video showcasing the working of the password generator application is included below.
+- A demo video showcasing the working of the password generator application is included below.
 
 File Name:
 
 '''text
-Screenshots/output_video.mp4
+output_video.mp4
 
 ---
 
