@@ -46,7 +46,7 @@ Task2_password_generator/
 
 '''bash
 
-git clone https://github.com/madhu6-max/CODSOFT.git
+- git clone https://github.com/madhu6-max/CODSOFT.git
 
 
 ### 2.Open project folder
@@ -55,7 +55,7 @@ git clone https://github.com/madhu6-max/CODSOFT.git
 
 '''bash
 
-cd CODSOFT/Task2_password_generator
+- cd CODSOFT/Task2_password_generator
 
 ### 3.Run the project Program
 
@@ -63,7 +63,7 @@ cd CODSOFT/Task2_password_generator
 
 '''bash
 
-python password_generator.py
+- python password_generator.py
 
 ## Example
 
@@ -76,9 +76,9 @@ Select password type:
 
 - Choose option:
 
-- What option do you want to choose (1/2/3): 3
+What option do you want to choose (1/2/3): 3
 
-- Generated password will display:
+Generated password will display:
 
 - Result =
 
@@ -94,7 +94,7 @@ Generated Password:
 
 ### Code Preview
 
-![Code Screenshot](code_ss.png)
+![Code Screenshots](code_ss.png)
 
 ---
 
@@ -110,7 +110,7 @@ Generated Password:
 File Name:
 
 '''text
-output_video.mp4
+[Open Password Generator Demo](./output_video.mp4)
 
 ---
 
