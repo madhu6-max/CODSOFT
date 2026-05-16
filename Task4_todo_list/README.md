@@ -64,6 +64,7 @@ Task4_todo_list/
 
 ### 3. Run the program
 
+
 1. Execute the to_do_list using;
 
 '''bash
@@ -73,6 +74,7 @@ Task4_todo_list/
 ---
 
 ##  Example Output
+
 
 
 ===== TO-DO LIST APPLICATION =====
@@ -96,6 +98,7 @@ Task added successfully!
 
 ### Code Preview
 
+
 ![Code 1](Screenshots/code1_ss.png)
 
 ![Code 2](Screenshots/code2_ss.png)
@@ -106,6 +109,7 @@ Task added successfully!
 
 
 ### Output Preview
+
 
 ![Output](Screenshots/output_ss.png)
 
