@@ -45,26 +45,28 @@ Task1_calculator/
 
 ### 1.clone the Respository
 
-'''bash
+```bash
 
 git clone https://github.com/madhu6-max/CODSOFT.git
-
+```
 
 ### 2.Open project folder
 
 1. Navigate to project folder
 
-'''bash
+```bash
 
 cd CODSOFT/Task1_calculator
+```
 
 ### 3.Run the project Program
 
 1. Execute the calculator application using:
 
-'''bash
+```bash
 
 python calculator.py
+```
 
 ### 4.Choose operation
 
@@ -80,10 +82,10 @@ Then enter the required numbers to get the result instantly.
 
 # Example
 
-'''Bash
+```bash
 Enter first number: 10
 Enter second number: 5
-
+```
 1. Addition
 2. Subtraction
 3. Multiplication
