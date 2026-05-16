@@ -8,6 +8,7 @@ This repository contains tasks completed during the CodSoft Python Programming I
 - Task 2: Password Generator → `/Task2_ password_generator`
 - Task 3: Rock Paper Scissors → `/Task3_rock_paper_scissors`
 - Task 4: To Do list → `/Task4_todo_list`
+- Task 5: Contact Book → `/Task5_contact_book`
 
 Author:
 Madhu Veera Kumar
