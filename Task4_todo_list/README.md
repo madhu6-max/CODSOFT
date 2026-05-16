@@ -47,35 +47,36 @@ Task4_todo_list/
 
 ### 1. Clone the Repository
 
-'''bash
+```bash
 
 - git clone https://github.com/madhu6-max/CODSOFT.git
-
+```
 
 ### 2.Open the project folder
 
 
 1. Navigate to project folder
 
-'''bash
+```bash
 
 - cd CODSOFT/Task4_todo_list
-
+```
 
 ### 3. Run the program
 
 
-1. Execute the to_do_list using;
+1. Execute the todo_list using;
 
-'''bash
+```bash
 
-- python todo_list.py
+- python to_do_list.py
+```
 
 ---
 
 ##  Example Output
 
-
+```txt
 
 ===== TO-DO LIST APPLICATION =====
 
@@ -90,7 +91,7 @@ Task4_todo_list/
 
 Task added successfully!
 
-
+```
 
 
 ##  Screenshots
