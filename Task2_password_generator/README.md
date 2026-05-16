@@ -44,26 +44,28 @@ Task2_password_generator/
 
 ### 1.clone the Repository
 
-'''bash
+```bash
 
 - git clone https://github.com/madhu6-max/CODSOFT.git
-
+```
 
 ### 2.Open project folder
 
 1. Navigate to project folder
 
-'''bash
+```bash
 
 - cd CODSOFT/Task2_password_generator
+```
 
 ### 3.Run the project Program
 
 1. Executee the password_generator program using;
 
-'''bash
+```bash
 
 - python password_generator.py
+```
 
 ## Example
 
@@ -110,7 +112,7 @@ Generated Password:
 
 File Name:
 
-[Open Password Generator Demo](Screenshots/output_video.mp4)
+[Watch Password Generator Demo](Screenshots/output_video.mp4)
 
 ---
 
