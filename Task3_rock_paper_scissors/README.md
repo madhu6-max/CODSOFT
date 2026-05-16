@@ -20,6 +20,7 @@
 
 ##  Technologies Used
 
+
 - Python
 - VS Code
 - GitHub
