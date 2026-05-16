@@ -94,13 +94,13 @@ Generated Password:
 
 ### Code Preview
 
-![Code Screenshots](code_ss.png)
+![Code Screenshots](Screenshots/code_ss.png)
 
 ---
 
 ### Output Preview
 
-![Output Screenshots](output_ss.png)
+![Output Screenshots](Screenshots/output_ss.png)
 
 ---
 
@@ -110,8 +110,7 @@ Generated Password:
 
 File Name:
 
-'''text
-[Open Password Generator Demo](./output_video.mp4)
+[Open Password Generator Demo](Screenshots/output_video.mp4)
 
 ---
 
