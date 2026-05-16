@@ -103,6 +103,7 @@ Generated Password:
 ![Output Screenshots](output_ss.png)
 
 ---
+
 ## Demo Video
 
 - A demo video showcasing the working of the password generator application is included below.
