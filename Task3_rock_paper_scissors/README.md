@@ -111,13 +111,13 @@ Play again? (yes/no):
 
 ## Code Preview
 
-![Code Screenshots](code_ss.png)
+![Code Screenshot](Screenshots/code_ss.png)
 
 ---
 
 ## Output Preview
 
-![Output Screenshots](output_ss.png)
+![Output Screenshot](Screenshots/output_ss.png)
 
 ---
 
@@ -127,7 +127,7 @@ Play again? (yes/no):
 
 Open:
 
-Screenshots/output_video.mp4
+[Watch Demo Video](Screenshots/output_video.mp4)
 
 ---
 
