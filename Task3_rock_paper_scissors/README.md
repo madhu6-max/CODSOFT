@@ -45,26 +45,28 @@ Task3_rock_paper_scissors/
 
 ### 1: Clone the Repository
 
-'''bash
+```bash
 
 - git clone https://github.com/madhu6-max/CODSOFT.git
-
+```
 
 ### 2.Open project folder
 
 1. Navigate to project folder
 
-''' bash
+```bash
 
 - cd CODSOFT/Task3_rock_paper_scissors
+```
 
 ### 3.Run the program
 
 1. Execute the rock_paper_scissor using;
 
-'''bash
+```bash
 
 - python rock_paper_scissors.py
+```
 
 ## How to Play
 
@@ -133,6 +135,7 @@ Open:
 
 
 ## Author
+
 **Andra Madhu Veera Kumar**
 - GitHub: https://github.com/madhu6-max⁠�
 - Domain: Python Programming & Cyber Security
