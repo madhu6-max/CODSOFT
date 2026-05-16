@@ -36,6 +36,7 @@ Task4_todo_list/
 - output_ss.png
 - output_video.mp4
 - README.md
+- tasks.json
 - todo_list.py
 
 ---
@@ -44,7 +45,7 @@ Task4_todo_list/
 
 ------------------
 
-### 1: Clone the Repository
+### 1. Clone the Repository
 
 '''bash
 
