@@ -54,32 +54,33 @@ Screenshots/
 
 ### 1. Clone the Repository
 
-'''bash
+```bash
 
 - git clone https://github.com/madhu6-max/CODSOFT.git
-
+```
 
 ### 2.Open the project folder
 
 1. Navigate to project folder
 
-'''bash
+```bash
 
 - cd CODSOFT/Task5_contact_book
-
+```
 
 ### 3. Run the Program
 
 1. Execute the contact_book using;
 
-'''bash
+```bash
 
 - python contact_book.py
-
+```
 
 ---
 
 ### Example 
+
 
 ##  Menu Options
 
@@ -97,6 +98,7 @@ Screenshots/
 
 ##  Example Output
 
+```txt
 
 ===== ADVANCED CONTACT BOOK =====
 
@@ -108,6 +110,7 @@ Screenshots/
 6. Total Contacts
 7. Sort Contacts (A-Z)
 8. Exit
+```
 
 - Enter choice: 1
 
