@@ -1,3 +1,5 @@
+
+
 ## Simple Calculator using Python
 
 A command-line based calculator application developed using Python.  
@@ -127,9 +129,8 @@ A demo video showcasing the working of the calculator application is included in
 
 File Name:
 
-```text
-output_video.mp4
-```
+https://github.com/user-attachments/assets/02ef2e1b-f832-4c72-ad0e-99f6ea01a70e
+
 
 ---
 
