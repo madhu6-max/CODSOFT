@@ -1,3 +1,5 @@
+
+
 # Password Generator using Python
 
 - A command-line based password generator developed using Python.  
@@ -112,7 +114,7 @@ Generated Password:
 
 File Name:
 
-[Watch Password Generator Demo](Screenshots/output_video.mp4)
+https://github.com/user-attachments/assets/19a1c1b1-6d67-486a-bd9b-2474a1f5f828
 
 ---
 
