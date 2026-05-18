@@ -1,3 +1,6 @@
+
+
+
 #  Advanced Contact Book using Python
 
 - An advanced command-line Contact Book application developed using Python.
@@ -136,9 +139,7 @@ Screenshots/
 
 ###  Output Preview
 
-
-![Output Screenshot](Screenshots/output_ss.png)
-
+https://github.com/user-attachments/assets/fa41e81f-6e6c-49f0-bb7a-89ea71a679ec
 
 ---
 
